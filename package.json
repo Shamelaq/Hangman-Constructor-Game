@@ -1,0 +1,24 @@
+{
+  "name": "hangman-constructor-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shamelaq/Hangman-Constructor-Game.git"
+  },
+  "author": "Shamela Qazei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shamelaq/Hangman-Constructor-Game/issues"
+  },
+  "homepage": "https://github.com/Shamelaq/Hangman-Constructor-Game#readme"
+}
